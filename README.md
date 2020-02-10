@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CS Student 
 
 You can use the [editor on GitHub](https://github.com/Abdulilah-14/CS310/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
